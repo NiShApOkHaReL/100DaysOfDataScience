@@ -1,0 +1,4 @@
+This is test file.
+Hello, My name is nisha pokharel.
+I am learning python file handling.
+Thank you!!

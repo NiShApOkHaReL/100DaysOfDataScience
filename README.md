@@ -79,5 +79,24 @@ Welcome to my "100 Days of Data Science" journey!
 I'd like to extend my gratitude to W3Schools.com and GeeksforGeeks for providing valuable resources that assisted me in today's learning.
 
 
+## Day 4: Deepening Python Proficiency
+
+### Topics Explored:
+0. **Exception Handling:**
+   - Understand how exceptions can disrupt normal program execution.
+   - Learn to handle exceptions gracefully with `try` and `except` blocks.
+
+1. **Custom Exceptions:**
+   - Explore the creation of custom exceptions to tailor error handling to specific needs.
+
+2. **Inheritance:**
+   - Dive into inheritance, a key concept allowing one class to inherit attributes and methods from another.
+
+3. **The Super() Function:**
+   - Uncover the power of `super()`, which enables child classes to inherit methods and properties from their parents.
+
+### Special Thanks:
+I'd like to express my appreciation to W3Schools.com and GeeksforGeeks for providing invaluable insights that facilitated my learning today.
+
 
 

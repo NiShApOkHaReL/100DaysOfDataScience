@@ -53,6 +53,29 @@ Welcome to my "100 Days of Data Science" journey!
    - Executes a block of code repeatedly while a condition is true.
    - Useful for tasks where the number of iterations isn't known in advance.
 
+## Day 3: Exploring Advanced Python Concepts
+
+### Topics Covered:
+🖥️ **Map Functions:**
+   - `map()` in Python is an iterator that applies a function to every item in an iterable (e.g., tuple, list) and returns a new iterable with results.
+
+🧹 **Filter Function:**
+   - `filter()` creates an iterator by applying a function to items in an iterable and returning only items that satisfy a certain condition.
+
+📚 **Arrays:**
+   - Python doesn't have native arrays, but you can use lists to achieve similar functionality.
+
+🔧 **Array Methods:**
+   - Python lists come with built-in methods to manipulate and interact with data efficiently.
+
+🧬 **Class and Object:**
+   - Objects are data bundles containing variables and methods.
+   - A class serves as a blueprint to create objects with specific attributes and behaviors.
+
+### Acknowledgments:
+I'd like to extend my gratitude to W3Schools.com and GeeksforGeeks for providing valuable resources that assisted me in today's learning.
+
+
 3️⃣ **If..Else, For Loops:**
    - **If..Else:** Conditional statements to execute code based on conditions.
    - **For Loops:** Iterating over a sequence (like a list) to repeat code for each item.

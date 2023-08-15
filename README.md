@@ -208,3 +208,22 @@ Special thanks to Krish Naik's YouTube channel for providing valuable guidance o
 4️⃣ **Matrices and Linear Algebra:**
    - Explored the realm of matrices and their advantages over arrays for specialized tasks.
    - Uncovered matrix functions such as transposition, swapping axes, finding inverses, and calculating determinants.
+
+
+## Day 10: Embracing Data Formats with Python Pandas
+
+### Day 10 Recap: Python Pandas and Data Formats
+
+0️⃣ **Working with JSON:**
+   - Leveraged the power of Pandas to effortlessly read JSON files using `read_json`.
+   - Mastered the art of converting data from DataFrames to JSON with `to_json`.
+   - Explored JSON normalization for transforming nested data structures.
+
+1️⃣ **Working with HTML:**
+   - Unveiled the magic of reading HTML tables directly from web browsers into DataFrames using `read_html`.
+   - Explored the flexibility of converting DataFrames back into HTML using `to_html`.
+
+2️⃣ **Working with XML:**
+   - Unearthed the secrets of reading XML data and transforming it into DataFrames.
+   - Successfully achieved bidirectional conversion - from DataFrames to XML.
+

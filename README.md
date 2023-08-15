@@ -22,6 +22,37 @@ Welcome to my "100 Days of Data Science" journey!
    - **Sets:** Unordered unique items enclosed in curly braces, e.g., `my_set = {1, 2, 3}`.
    - **Dictionaries:** Key-value pairs enclosed in curly braces, e.g., `my_dict = {"key": "value"}`.
 
+
+## Day 2: Exploring Python Functions
+
+### Topics Covered:
+📝 **Python Function:** A block of statements that performs a specific task and returns a value.
+   
+0️⃣ **Types of Functions:**
+   - Built-in functions provided by Python.
+   - User-defined functions created by programmers.
+
+1️⃣ **Types of Function Arguments:**
+   - Positional arguments passed in the order they are defined.
+   - Keyword arguments identified by parameter names.
+   - Default arguments with predefined values.
+
+2️⃣ **Docstring:**
+   - A string placed at the beginning of a function to provide documentation.
+   - Describes the purpose and usage of the function.
+
+3️⃣ **Anonymous Function:**
+   - Also known as lambda functions.
+   - Used for short, simple operations without creating a formal function.
+   
+4️⃣ **Nested Function:**
+   - A function defined within another function.
+   - Encapsulation allows for better organization and reusability.
+
+5️⃣ **While Loop:**
+   - Executes a block of code repeatedly while a condition is true.
+   - Useful for tasks where the number of iterations isn't known in advance.
+
 3️⃣ **If..Else, For Loops:**
    - **If..Else:** Conditional statements to execute code based on conditions.
    - **For Loops:** Iterating over a sequence (like a list) to repeat code for each item.

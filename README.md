@@ -1,5 +1,8 @@
 # 100 Days of Data Science
 
+![100DaysCode](https://github.com/NiShApOkHaReL/100DaysOfDataScience/assets/107798171/6433a6fe-7e3c-4260-b1ee-09cca6040450)
+
+
 Welcome to my "100 Days of Data Science" journey!
 
 ## Day 1: Introduction to Python Basics

@@ -21,6 +21,9 @@ Welcome to my "100 Days of Data Science" journey!
    - **Tuples:** Similar to lists but enclosed in parentheses, e.g., `my_tuple = (1, 2, 3)`.
    - **Sets:** Unordered unique items enclosed in curly braces, e.g., `my_set = {1, 2, 3}`.
    - **Dictionaries:** Key-value pairs enclosed in curly braces, e.g., `my_dict = {"key": "value"}`.
+3️⃣ **If..Else, For Loops:**
+   - **If..Else:** Conditional statements to execute code based on conditions.
+   - **For Loops:** Iterating over a sequence (like a list) to repeat code for each item.
 
 
 ## Day 2: Exploring Python Functions
@@ -76,8 +79,5 @@ Welcome to my "100 Days of Data Science" journey!
 I'd like to extend my gratitude to W3Schools.com and GeeksforGeeks for providing valuable resources that assisted me in today's learning.
 
 
-3️⃣ **If..Else, For Loops:**
-   - **If..Else:** Conditional statements to execute code based on conditions.
-   - **For Loops:** Iterating over a sequence (like a list) to repeat code for each item.
 
 

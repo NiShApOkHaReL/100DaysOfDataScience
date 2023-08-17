@@ -246,3 +246,21 @@ Data visualization is the representation of data through use of common graphics,
    - Scatter Plot: Visualizing relationships between two continuous variables.
    - Heatmap: Depicting matrices of values using colors to reveal patterns and relationships.
 
+
+## Day 12: Deepening Data Visualization Skills with Seaborn
+
+0️⃣ **Count Plot in Seaborn:**
+   - Dived into the nuances of count plots, differentiating them from bar plots.
+   - Explored how count plots excel in visualizing record counts per category.
+
+1️⃣ **Violin Plot Mastery:**
+   - Mastered the art of creating violin plots, which reveal data distribution across categorical variables.
+   - Explored customization options like palette, linewidth, order, saturation, color, and inner styles.
+
+2️⃣ **Pair Plot Proficiency:**
+   - Enhanced my understanding of pair plots for uncovering relationships between variables and forming clusters.
+   - Explored attributes like hue_order, palette, x_vars, y_vars, and kind for insightful pair plots.
+
+3️⃣ **Strip Plot Techniques:**
+   - Delved into strip plots, an engaging way to display data point distribution across categories.
+   - Explored patterns and outliers using strip plots.

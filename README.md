@@ -268,4 +268,4 @@ Data visualization is the representation of data through use of common graphics,
 
 ## Day 13: Exploring Linear Algebra for Machine Learning
 
- - Resource: 
+ - Resource: https://coursera.org/share/4ba5d65a3df9d87e99e10296a3030624

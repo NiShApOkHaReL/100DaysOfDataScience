@@ -268,4 +268,20 @@ Data visualization is the representation of data through use of common graphics,
 
 ## Day 13: Exploring Linear Algebra for Machine Learning
 
+  - System of Sentences, System of Information
+  - Sytem of Equations
+  - Linear and Non Linear Equations
+  - System of Linear Equations as Lines
+  - Linear Dependence and Linear Independence
+  - Relation of Determinant and Singularity
+
+  - Resource: https://coursera.org/share/4ba5d65a3df9d87e99e10296a3030624
+
+## Day 14 - Linear Algebra
+  -  Solve a system of linear equations using the elimination method.
+  -  Use a matrix to represent a system of linear equations and solve it using matrix row reduction.
+  -  Solve a system of linear equations by calculating the matrix in the row echelon form.
+  -  Calculate the rank of a system of linear equations and use the rank to determine the number of solutions of the system.
+ 
+ 
  - Resource: https://coursera.org/share/4ba5d65a3df9d87e99e10296a3030624

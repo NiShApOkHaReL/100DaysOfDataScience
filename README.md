@@ -286,8 +286,10 @@ Data visualization is the representation of data through use of common graphics,
  
  - Resource: https://coursera.org/share/4ba5d65a3df9d87e99e10296a3030624
 
- ## Day 15 - Essential Linear Algebra Operations and Transformations
+## Day 15 - Essential Linear Algebra Operations and Transformations
   - Performed common operations on vectors like sum, difference, and dot product.
   - Multiply matrices and vectors.
   - Represent a system of linear equations as a linear transformation on a vector.
   - Calculated the inverse of a matrix, if it exists.
+
+## Day 16 - 

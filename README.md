@@ -292,4 +292,9 @@ Data visualization is the representation of data through use of common graphics,
   - Represent a system of linear equations as a linear transformation on a vector.
   - Calculated the inverse of a matrix, if it exists.
 
-## Day 16 - 
+## Day 16 -  Exploring Matrix Determinants, Bases, and Eigenvalues - Linear Algebra
+
+  - Interpret the determinant of a matrix as an area and calculate determinant of an inverse of a matrix and a product of matrices.
+  - Determine the bases and span of vectors.
+  - Find eigenbases for a special type of linear transformations commonly used in machine learning.
+  - Calculate the eignenvalues and eigenvectors of a linear transformation (matrix).

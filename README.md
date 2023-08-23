@@ -298,3 +298,12 @@ Data visualization is the representation of data through use of common graphics,
   - Determine the bases and span of vectors.
   - Find eigenbases for a special type of linear transformations commonly used in machine learning.
   - Calculate the eignenvalues and eigenvectors of a linear transformation (matrix).
+
+## Day 17 -  Calculus for Machine Learning and Data Science
+
+  - Derivatives and tangents
+  - Slopes, maxima and minima
+  - Concept of Derivatives
+  - Derivative and their notation
+  - And also performed some devivates of lines, Quadratics, Higher degree polynomials and other power functions
+  - The inverse function and its derivative

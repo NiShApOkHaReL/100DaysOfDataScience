@@ -307,3 +307,11 @@ Data visualization is the representation of data through use of common graphics,
   - Derivative and their notation
   - And also performed some devivates of lines, Quadratics, Higher degree polynomials and other power functions
   - The inverse function and its derivative
+
+## Day 18 -  Calculus for Machine Learning and Data Science
+
+  - Derivative of trigonometric functions
+  - Meaning of the Exponential(e)
+  - The derivative of e^x
+  - The derivative of log(x)
+  - Existence of the derivative

@@ -315,3 +315,10 @@ Data visualization is the representation of data through use of common graphics,
   - The derivative of e^x
   - The derivative of log(x)
   - Existence of the derivative
+
+## Day 19 -  Calculus for Machine Learning and Data Science
+
+   1. Properties of the derivative: Multiplication by scalars
+   2. Properties of the derivative: The sum rule
+   3. Properties of the derivative: The product rule
+   4. Properties of the derivative: The chain rule

@@ -322,3 +322,5 @@ Data visualization is the representation of data through use of common graphics,
    2. Properties of the derivative: The sum rule
    3. Properties of the derivative: The product rule
    4. Properties of the derivative: The chain rule
+
+## Day 20 -  Calculus for Machine Learning and Data Science

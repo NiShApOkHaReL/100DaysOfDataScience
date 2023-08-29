@@ -329,3 +329,8 @@ Data visualization is the representation of data through use of common graphics,
   - 
   - 
   - 
+
+## Day 21 -  Calculus for Machine Learning and Data Science 
+ - 
+ - 
+ -  

@@ -344,3 +344,16 @@ Data visualization is the representation of data through use of common graphics,
    - Optimization using Gradient Descent - Least squares
    - Optimization using Gradient Descent - Least square with multiple observations
   
+## Day 22 -  Calculus for Machine Learning and Data Science
+
+1. Regression with a Perceptron:
+   - Dived into the world of regression using a perceptron, a fundamental concept in machine learning.
+   - Learned how a perceptron can be used to predict outcomes and model relationships between variables.
+
+2. Regression with Perceptron - Loss Function:
+   - Explored the concept of loss function, a critical element in assessing the accuracy of our predictions.
+   - Understood how the choice of a loss function impacts our model's performance and optimization process.
+
+3. Regression with Perceptron - Gradient Descent:
+   - Discovered how Gradient Descent comes into play for optimizing regression models using a perceptron.
+   - Learned how to adjust model parameters iteratively to minimize the loss function and enhance predictive power.

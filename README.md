@@ -318,19 +318,29 @@ Data visualization is the representation of data through use of common graphics,
 
 ## Day 19 -  Calculus for Machine Learning and Data Science
 
-   1. Properties of the derivative: Multiplication by scalars
-   2. Properties of the derivative: The sum rule
-   3. Properties of the derivative: The product rule
-   4. Properties of the derivative: The chain rule
+   - Properties of the derivative: Multiplication by scalars
+   - Properties of the derivative: The sum rule
+   - Properties of the derivative: The product rule
+   - Properties of the derivative: The chain rule
 
 ## Day 20 -  Calculus for Machine Learning and Data Science
-  - 
-  - 
-  - 
-  - 
-  - 
+   - Introduction to optimization
+   - Optimization of squared loss - The one powerline problem
+   - Optimization of squared loss - The two powerline problem
+   - Optimization of squared loss - The three powerline problem
+   - Optimization of log - loss
+
+   - Gradients: The concept of gradients was a bit challenging but super interesting! I learned about tangent planes and partial derivatives, which are building blocks for understanding gradients. Gradients play a crucial role in finding maxima and minima points in functions, which is essential for optimization.
+ 
 
 ## Day 21 -  Calculus for Machine Learning and Data Science 
- - 
- - 
- -  
+   ### Lesson 1 - Gradients
+   - Optimization with gradients : An example
+   - Optimization with gradients - Analytical method
+
+   ### Lesson 2 - Gradient Descent
+   - Optimization using Gradient Descent in one Variable
+   - Optimization using Gradient Descent in two Variable
+   - Optimization using Gradient Descent - Least squares
+   - Optimization using Gradient Descent - Least square with multiple observations
+  

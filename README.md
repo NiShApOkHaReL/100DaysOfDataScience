@@ -357,3 +357,21 @@ Data visualization is the representation of data through use of common graphics,
 3. Regression with Perceptron - Gradient Descent:
    - Discovered how Gradient Descent comes into play for optimizing regression models using a perceptron.
    - Learned how to adjust model parameters iteratively to minimize the loss function and enhance predictive power.
+
+## Day 23 -  Calculus for Machine Learning and Data Science
+
+   1. Classification with Perceptron:
+     - Embarked on the journey of classification, a crucial aspect of machine learning, using the perceptron model.
+     - Understood how the perceptron can be trained to categorize data into distinct classes.
+
+   2. Classification with Perceptron - The Sigmoid Function:
+     - Explored the role of the sigmoid function in classification, understanding its significance in mapping predictions to probabilities.
+     - Learned how this function adds a layer of flexibility to our model's outputs.
+
+   3. Classification with Perceptron - Gradient Descent:
+     - Delved into the usage of Gradient Descent to optimize our classification model, just as we did in regression.
+     - Gained insights into the iterative parameter adjustment process that leads to better classification accuracy.
+
+   4. Classification with Perceptron - Calculating the Derivatives:
+     - Explored the mathematics behind calculating derivatives for our classification model.
+     - Understood how derivatives guide the optimization process, ensuring we reach the most accurate model configuration.

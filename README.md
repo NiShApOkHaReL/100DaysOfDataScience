@@ -375,3 +375,8 @@ Data visualization is the representation of data through use of common graphics,
    4. Classification with Perceptron - Calculating the Derivatives:
      - Explored the mathematics behind calculating derivatives for our classification model.
      - Understood how derivatives guide the optimization process, ensuring we reach the most accurate model configuration.
+
+## Day 24 -  Calculus for Machine Learning and Data Science
+1. Classification with Neural Network
+2. Classification with a Neural Network - Minimizing log-loss
+3. Gradient Descent and Backpropagation

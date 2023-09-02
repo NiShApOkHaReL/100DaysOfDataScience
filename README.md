@@ -380,3 +380,10 @@ Data visualization is the representation of data through use of common graphics,
 1. Classification with Neural Network
 2. Classification with a Neural Network - Minimizing log-loss
 3. Gradient Descent and Backpropagation
+
+## Day 25 -  Calculus for Machine Learning and Data Science
+1. Netwon's Method
+2. An example of Netwon's method
+3. The second derivative and it's concept
+4. The Hessian and concavity
+5. Newton's Method for two variables

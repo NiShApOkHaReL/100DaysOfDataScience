@@ -447,13 +447,13 @@ Formula: f(x) = (1 / (σ√(2π))) * e^(-((x-μ)^2 / (2σ^2)))
 
 ## Day 30 - House Price Prediction
 
-- [GitHub Repository: Source Code](https://github.com/NiShApOkHaReL/100DaysOfDataScience/tree/main/30.%20Day%20-%2030%20House%20Price%20Prediction)
+- GitHub Repository: [Source Code](https://github.com/NiShApOkHaReL/100DaysOfDataScience/tree/main/30.%20Day%20-%2030%20House%20Price%20Prediction)
 
 
 ## Day 31 - Deployment of House Price Prediction
 
-- code link:- https://github.com/NiShApOkHaReL/100DaysOfDataScience/tree/main/31.%20Day%20-%2031%20Deployment%20of%20House%20Price%20Prediction
+- GitHub Repository: [Source Code](https://github.com/NiShApOkHaReL/100DaysOfDataScience/tree/main/31.%20Day%20-%2031%20Deployment%20of%20House%20Price%20Prediction)
 
 ## Day 32 - SMS Spam Detection
 
-- Code link:- https://github.com/NiShApOkHaReL/100DaysOfDataScience/tree/main/32.%20Day%20-%2032%20SMS%20Spam%20Detection
+- GitHub Repository: [Source Code](https://github.com/NiShApOkHaReL/100DaysOfDataScience/tree/main/32.%20Day%20-%2032%20SMS%20Spam%20Detection)

@@ -447,7 +447,8 @@ Formula: f(x) = (1 / (σ√(2π))) * e^(-((x-μ)^2 / (2σ^2)))
 
 ## Day 30 - House Price Prediction
 
-- Code link:- https://github.com/NiShApOkHaReL/100DaysOfDataScience/tree/main/30.%20Day%20-%2030%20House%20Price%20Prediction
+- [GitHub Repository: Source Code](https://github.com/NiShApOkHaReL/100DaysOfDataScience/tree/main/30.%20Day%20-%2030%20House%20Price%20Prediction)
+
 
 ## Day 31 - Deployment of House Price Prediction
 

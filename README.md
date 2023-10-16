@@ -387,3 +387,72 @@ Data visualization is the representation of data through use of common graphics,
 3. The second derivative and it's concept
 4. The Hessian and concavity
 5. Newton's Method for two variables
+
+## Day 26 - Probability & Statistics for Machine Learning & Data Science
+- Fundamental concepts of probablity and statistics.
+
+## Day 27 - Probability & Statistics for Machine Learning & Data Science
+
+1. Bayes Theorem - Intuition
+2. Bayes Theorem - Mathematical Formula
+3. Monty Hall Problem
+4. Bayes Theorem - Mathematical Formula
+5. Bayes Theorem - Spam example
+6. Bayes Theorem - Prior and Posterior
+7. Bayes Theorem - The Naive Bayes Model
+8. Probability in Machine Learning
+
+## Day 28 - Probability & Statistics for Machine Learning & Data Science
+
+1. Random Variable: A variable whose possible values are outcomes of a random phenomenon.
+
+2. Probability Distribution (Discrete): Describes the likelihood of each possible outcome in a discrete random variable.
+
+3. Binomial Distribution: Models the number of successes in a fixed number of independent Bernoulli trials.
+Formula: P(X = k) = (n choose k) * p^k * (1-p)^(n-k)
+
+4. Binomial Coefficient (n choose k): Represents the number of ways to choose k items from a set of n distinct items.
+Formula: C(n, k) = n! / (k!(n-k)!)
+
+5. Bernoulli Distribution: Models a random experiment with two possible outcomes (usually denoted as success and failure).
+Formula: P(X = x) = p^x * (1-p)^(1-x)
+
+6. Probability Distribution (Continuous): Describes the likelihood of outcomes in a continuous random variable.
+
+7. Probability Density Function (PDF): Describes the probability distribution of a continuous random variable.
+
+8. Cumulative Distribution Function (CDF): Gives the probability that a continuous random variable takes a value less than or equal to a specific value.
+
+9. Uniform Distribution: Every outcome in the sample space is equally likely.
+Formula: f(x) = 1 / (b - a) for a ≤ x ≤ b
+
+10. Normal Distribution: Describes a continuous probability distribution characterized by a bell-shaped curve.
+Formula: f(x) = (1 / (σ√(2π))) * e^(-((x-μ)^2 / (2σ^2)))
+
+11. Chi-square Distribution: Used in hypothesis testing and modeling the variability in data.
+
+## Day 29 - Probability & Statistics for Machine Learning & Data Science
+
+1. Measure of Central Tendency: Understanding how data clusters around a central value.
+2. Expected Value: Calculating the long-term average of a random variable.
+3. Expected Value of a Function: Extending expected value concepts to functions of random variables.
+4. Sum of Expectations: Managing sums and expectations in data analysis.
+5. Variance: Measuring the spread or variability in data.
+6. Standard Deviation: A widely used measure of data dispersion.
+7. Sum of Gaussians: Delving into the mathematics behind the Gaussian distribution.
+8. Standardizing a Distribution: Making data comparable by transforming it into standard units.
+9. Skewness and Kurtosis: Exploring data asymmetry and the shape of probability distributions.
+10. Quantiles and Box-Plots: Visualizing data distribution and detecting outliers.
+11. Visualizing Data: Using Box-Plots, Kernel Density Estimation, Violin Plots, and QQ Plots to gain insights from data.
+
+## Day 30 - House Price Prediction
+
+- Code link:- https://github.com/NiShApOkHaReL/100DaysOfDataScience/tree/main/30.%20Day%20-%2030%20House%20Price%20Prediction
+
+## Day 31 - Deployment of House Price Prediction
+
+- code link:- https://github.com/NiShApOkHaReL/100DaysOfDataScience/tree/main/31.%20Day%20-%2031%20Deployment%20of%20House%20Price%20Prediction
+
+## Day 32 - SMS Spam Detection
+
+- Code link:- https://github.com/NiShApOkHaReL/100DaysOfDataScience/tree/main/32.%20Day%20-%2032%20SMS%20Spam%20Detection
